@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------
+--------- Factura del envío PM1234NAHCDERJU ---------
+-------------------------------------------------------------------------
+Porte: PM1234
+Origen: Mercury Station (MS-1) 4
+Destino: Venus Station (VS-1) 6
+Salida: 15/01/2023 10:00:00
+Llegada: 16/01/2023 12:00:00
+Cliente: Hermes Conrad, hermes@planetexpress.com
+Hueco: 2C
+Precio: 893.21 SSD

@@ -1,0 +1,29 @@
+--------------------------------------------------------------
+--------- Lista de envíos del porte PM1234 ------
+--------------------------------------------------------------
+Hueco Cliente
+1A Hermes Conrad, hermes@planetexpress.com
+1B Philip Fry, fry@planetexpress.com
+1C
+1D
+1E
+2A
+2B Hermes Conrad, hermes@planetexpress.com
+2C
+2D
+2E
+3A
+3B
+3C Bender Rodriguez, bender@planetexpress.com
+3D
+3E
+4A
+4B
+4C
+4D Bender Rodriguez, bender@planetexpress.com
+4E
+5A
+5B
+5C
+5D
+5E Amy Wong, amy@planetexpress.com
